@@ -67,7 +67,7 @@ to a spot where you have some long shooting lanes.
 
 Get to know the maps by yourself by playing split-screen games on your own 
 (you don't need more than one person to start a game). Walk through the levels by yourself 
-and take your time to learn where things are. Unfortunately, the casual Halo 3 player who 
+and take your time to learn where things are. Unfortunately, the casual Halo player who 
 doesn't own a copy of the game will have a difficult time getting to know the maps.
 
 ##Level 2: Movement and your Environment
@@ -179,7 +179,7 @@ when an opponent is firing on you. Depressions or "bowl-shaped" areas and small 
 will make you more vulnerable to grenade attacks. Generally, you'll always want to stay away 
 from large, open areas as you'll be very vulnerable to snipers and overall have no cover to go to.
 
-There are barely any locations in the Halo 3 maps that allow you to be completely protected, 
+There are barely any locations in the Halo maps that allow you to be completely protected, 
 but knowing the type of terrain you're in with respect to where your enemy is will allow you 
 to decide whether you should move or stay put.
 
@@ -188,7 +188,7 @@ especially with grenades or rockets.
 
 ##Level 3: Basic weaponry
 
-Once you have a good handle on how to move around in the Halo 3 environment and perform basic 
+Once you have a good handle on how to move around in the Halo environment and perform basic 
 functions by reflex, you'll need to start being effective with the game's instruments of death.
 
 - Recognize the weapons
@@ -511,7 +511,7 @@ while weakening their shields.
 
 ###Needler technique
 
-The Needler is perhaps the least-understood weapon in the game. In Halo 3, the Needlers have been 
+The Needler is perhaps the least-understood weapon in the game. In Halo, the Needlers have been 
 given a boost in their power, but can no longer be dual-wielded. The Needler fires needles that 
 explode after impacting their target. The objective is to rapidly fire as many needles into your 
 opponent as you can, then let the explosion kill them. One needle has a very small explosion, 
