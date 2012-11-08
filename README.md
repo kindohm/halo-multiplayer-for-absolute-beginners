@@ -3,13 +3,12 @@ Halo Multiplayer for Absolute Beginners
 
 ##Introduction
 
-Welcome to Halo3Basics.com - a tips and strategies site for Halo 3 multiplayer. 
-The purpose of the site is to help novice (and maybe even intermediate players) 
-get better at Halo 3 multiplayer. There's a lot of information out on the web 
-about Halo 3 game play, but most of it is organized poorly, dominated by kids 
+The purpose of this guide is to help novice players
+get better at Halo multiplayer. There's a lot of information out on the web 
+about Halo game play, but most of it is organized poorly, dominated by kids 
 (or adults) who can't write a coherent sentence to save their life, or is very incomplete.
 
-If you're having trouble getting anywhere in Halo 3 multiplayer, hopefully you'll 
+If you're having trouble getting anywhere in Halo multiplayer, hopefully you'll 
 find this information helpful. If you start practicing the tips and strategies presented 
 here, you will start to gain an edge on the battlefield.
 
