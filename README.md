@@ -25,10 +25,10 @@ this guide isn't for you.
 
 ##Level 1: Absolute Basics
 
-Mastering these steps is a requirement for any level of success in Halo 3 multiplayer.
+Mastering these steps is a requirement for any level of success in Halo multiplayer.
 
 - Know the controls
-- Complete the single-player Halo 3 campaign on Easy or Normal difficulty
+- Complete the single-player Halo campaign on Easy or Normal difficulty
 - Know the multiplayer maps
 
 ###Know the controls
