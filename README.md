@@ -4,12 +4,9 @@ Halo Multiplayer for Absolute Beginners
 ##Introduction
 
 The purpose of this guide is to help novice players
-get better at Halo multiplayer. There's a lot of information out on the web 
-about Halo game play, but most of it is organized poorly, dominated by kids 
-(or adults) who can't write a coherent sentence to save their life, or is very incomplete.
-
-If you're having trouble getting anywhere in Halo multiplayer, hopefully you'll 
-find this information helpful. If you start practicing the tips and strategies presented 
+get better at Halo multiplayer. If you're having trouble getting anywhere in 
+Halo multiplayer, hopefully you'll find this information helpful. If you start 
+practicing the tips and strategies presented 
 here, you will start to gain an edge on the battlefield.
 
 This is not an advanced guide. If you're looking for advanced information on 
