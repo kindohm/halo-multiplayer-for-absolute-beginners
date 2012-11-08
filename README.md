@@ -22,9 +22,6 @@ this guide isn't for you.
 - Level 5: Defensive Fundamentals
 - Level 6: Advanced Weaponry
 - Level 7: Teamwork
-- Level 8: Power-ups, Equipment and Extras
-- Supplement: Vehicles
-- Closing
 
 ##Level 1: Absolute Basics
 
